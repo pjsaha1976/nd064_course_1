@@ -1,0 +1,9 @@
+apiVersion: v1
+name: nginx-deployment
+description: A Helm chart for deploying NGINX
+version: 1.0.0
+keywords:
+  - nginx
+maintainers:
+  - name: pj saha
+    email: pjsaha1976@gmail.com
